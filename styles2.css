@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background: gray;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.container{
+position: relative;
+text-align: center;
+
+}
+
+#web{
+  position: absolute;
+  left: 1%;
+  width: 30%;
+}
+
+.rotate{
+  transform: rotate(45deg);
+}
+
+#bat1{
+  width: 20%;
+  padding-left: 30%;
+  padding-right: 10%;
+}
+
+#bat2{
+  width: 20%;
+  padding-left: 70%;
+  padding-right: 10%;
+}
+
+h1{
+  color: rgb(243, 114, 8);
+  font-family: copperplate;
+  font-style: italic;
+  text-shadow: black 1px 6px;
+  font-weight: 120;
+  font-size: 70px;
+  text-decoration: underline;
+  padding-top: 0%; 
+}
+
+
+#demo{
+  font-size: 40px;
+  margin-top: 0px;
+  color: rgb(3, 61, 3);
+  font-family: copperplate;
+  text-shadow: black 1px 3px;
+}
+
+#bones{
+  width: 40%;
+  padding-top: 5%;
+}
+
